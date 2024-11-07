@@ -1,0 +1,16 @@
+D:\BVC FILES\RAD\pieChart\pieChart\bin\Debug\net8.0-windows\pieChart.exe
+D:\BVC FILES\RAD\pieChart\pieChart\bin\Debug\net8.0-windows\pieChart.deps.json
+D:\BVC FILES\RAD\pieChart\pieChart\bin\Debug\net8.0-windows\pieChart.runtimeconfig.json
+D:\BVC FILES\RAD\pieChart\pieChart\bin\Debug\net8.0-windows\pieChart.dll
+D:\BVC FILES\RAD\pieChart\pieChart\bin\Debug\net8.0-windows\pieChart.pdb
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.Form1.resources
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.csproj.GenerateResource.cache
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.GeneratedMSBuildEditorConfig.editorconfig
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.AssemblyInfoInputs.cache
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.AssemblyInfo.cs
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.csproj.CoreCompileInputs.cache
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.dll
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\refint\pieChart.dll
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.pdb
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\pieChart.genruntimeconfig.cache
+D:\BVC FILES\RAD\pieChart\pieChart\obj\Debug\net8.0-windows\ref\pieChart.dll
